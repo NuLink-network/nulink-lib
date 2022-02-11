@@ -1,7 +1,7 @@
 # nulink
 
 <p align="center">
-  <a href="https://www.nulink.org/"><img src="./logo/nulink-bg-1.png" /></a>
+  <a href="https://www.nulink.org/"><img src="./logo/nulink-bg-1.png" width=40%  /></a>
 </p>
 
 NuLink provides privacy-preserving technology for decentralized applications via APIs. We enable and make it easy for developers, startups, small businesses and enterprises to build their own applications with all the best security and privacy practices
